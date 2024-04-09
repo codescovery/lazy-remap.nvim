@@ -15,7 +15,7 @@ The plugin itself doesn't provide any keybindings or functionality.
 ```lua
 local keymap = vim.keymap
 return {
-    "codescovery/remap.nvim",
+    "codescovery/lazy-remap.nvim",
     event = "VeryLazy",
     name = "remap",
     config = function()
