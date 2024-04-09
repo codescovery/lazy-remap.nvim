@@ -22,6 +22,8 @@ return {
         -- Add your keybindings here
     end
 }
+```
+
 - Add the following to your `init.lua` file
 
 ```lua
